@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T21:04:55.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-BC3Z8xIm02twbqWqwoY" version="22.1.19" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T21:06:35.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Vrg7bOLx3hmoFLcnUXXE" version="22.1.19" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="2868" dy="-937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2868" dy="-937" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="657" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;fillColor=#23445D;fontFamily=Helvetica;fontSize=17;fontColor=#23445d;align=center;rotation=90;gradientColor=none;flipH=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="332.92105263157896" y="2840.1666666666665" width="35" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="geH40zMkPOeQHJZC4quD-657" value="Diagrama de Kietzmann&amp;nbsp;&lt;br&gt;do Site dos Correios&lt;br&gt;&lt;br&gt;Fonte: DEDIG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="26" y="3166" width="315" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
