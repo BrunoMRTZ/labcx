@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T20:31:00.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Mb0kUW7xDsEPc5nLvS74" version="22.1.19" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T20:44:14.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QQUVQP-7ui9GmyLutA5A" version="22.1.19" type="github">
   <diagram name="Page-1" id="bd83a815-5ea8-2e97-e5ec-87c9f400f2fa">
     <mxGraphModel dx="1189" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="827" pageHeight="583" background="none" math="0" shadow="0">
       <root>
@@ -84,28 +84,45 @@
         <mxCell id="wp4WdSBtoDWt7Q6JzphJ-60" value="&lt;h1&gt;Planejar&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="520" width="230" height="152.5" as="geometry" />
         </mxCell>
-        <mxCell id="wp4WdSBtoDWt7Q6JzphJ-61" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wp4WdSBtoDWt7Q6JzphJ-61" value="&lt;h1&gt;Planejar&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="955" y="520" width="230" height="152.5" as="geometry" />
         </mxCell>
         <mxCell id="wp4WdSBtoDWt7Q6JzphJ-62" value="&lt;h1&gt;Planejar&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="687.5" width="230" height="152.5" as="geometry" />
         </mxCell>
-        <mxCell id="wp4WdSBtoDWt7Q6JzphJ-63" value="&lt;h1&gt;Planejar&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wp4WdSBtoDWt7Q6JzphJ-63" value="&lt;h1&gt;Planejar&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="690" width="230" height="152.5" as="geometry" />
         </mxCell>
-        <mxCell id="wp4WdSBtoDWt7Q6JzphJ-64" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wp4WdSBtoDWt7Q6JzphJ-64" value="&lt;h1&gt;Planejar&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="945.5" y="693.75" width="230" height="152.5" as="geometry" />
         </mxCell>
-        <mxCell id="wp4WdSBtoDWt7Q6JzphJ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wp4WdSBtoDWt7Q6JzphJ-67">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="245.57142857142867" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="wp4WdSBtoDWt7Q6JzphJ-85" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_50_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="865" y="450" width="60" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="%name% Text" placeholders="1" name="Variable" id="wp4WdSBtoDWt7Q6JzphJ-67">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="210" y="240" width="80" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="wp4WdSBtoDWt7Q6JzphJ-86" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_0_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1160" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wp4WdSBtoDWt7Q6JzphJ-87" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_75_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="570" y="450" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wp4WdSBtoDWt7Q6JzphJ-88" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_0_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="852.5" y="610" width="57.5" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wp4WdSBtoDWt7Q6JzphJ-89" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_0_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="797.5" width="57.5" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wp4WdSBtoDWt7Q6JzphJ-90" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_0_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="852.5" y="797.5" width="57.5" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wp4WdSBtoDWt7Q6JzphJ-91" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_0_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1171.25" y="790" width="57.5" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wp4WdSBtoDWt7Q6JzphJ-92" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_0_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1171.25" y="607.5" width="57.5" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wp4WdSBtoDWt7Q6JzphJ-93" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_0_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="600" width="57.5" height="62.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
