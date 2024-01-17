@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T21:25:57.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zCiNLc2R2n__PtsRYq-M" version="22.1.19" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-17T21:27:37.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uGncig4KSjdVDz8arC4K" version="22.1.19" type="github" pages="7">
   <diagram name="Página-1" id="zxCVs5SGxwuc_AOnz3UE">
     <mxGraphModel dx="1134" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="1">
       <root>
@@ -74,7 +74,7 @@
         <mxCell id="OTeZvvdqep0W05-kTH7F-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.accenture.com/content/dam/system-files/acom/custom-code/dp-approval/shopper-segments/assets/images/bubble-pic-6.png;" parent="1" vertex="1">
           <mxGeometry x="480" y="50" width="120" height="120" as="geometry" />
         </mxCell>
-        <UserObject label="" id="5jhE8oywwVfsGMQBfPW_-1">
+        <UserObject label="" link="data:page/id,zxCVs5SGxwuc_AOnz3UE" id="5jhE8oywwVfsGMQBfPW_-1">
           <mxCell style="shape=cross;whiteSpace=wrap;html=1;gradientColor=#000000;shadow=1;rotation=30;" vertex="1" parent="1">
             <mxGeometry x="690" y="60" width="70" height="70" as="geometry" />
           </mxCell>
@@ -92,7 +92,7 @@
             <mxGeometry x="30" y="20" width="780" height="540" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" id="frj4v5eATDzRi4zZGpsb-1">
+        <UserObject label="" link="data:page/id,zxCVs5SGxwuc_AOnz3UE" id="frj4v5eATDzRi4zZGpsb-1">
           <mxCell style="shape=cross;whiteSpace=wrap;html=1;gradientColor=#000000;shadow=1;rotation=30;" vertex="1" parent="1">
             <mxGeometry x="700" y="40" width="70" height="70" as="geometry" />
           </mxCell>
@@ -110,7 +110,7 @@
             <mxGeometry x="50" y="30" width="760" height="520" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" id="y8uXIrS764FT32f3W7hp-1">
+        <UserObject label="" link="data:page/id,zxCVs5SGxwuc_AOnz3UE" id="y8uXIrS764FT32f3W7hp-1">
           <mxCell style="shape=cross;whiteSpace=wrap;html=1;gradientColor=#000000;shadow=1;rotation=30;" vertex="1" parent="1">
             <mxGeometry x="670" y="50" width="70" height="70" as="geometry" />
           </mxCell>
@@ -128,7 +128,7 @@
             <mxGeometry x="30" y="20" width="770" height="540" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" id="6QkupdMWqbOaMy9l9Jw8-1">
+        <UserObject label="" link="data:page/id,zxCVs5SGxwuc_AOnz3UE" id="6QkupdMWqbOaMy9l9Jw8-1">
           <mxCell style="shape=cross;whiteSpace=wrap;html=1;gradientColor=#000000;shadow=1;rotation=30;" vertex="1" parent="1">
             <mxGeometry x="690" y="50" width="70" height="70" as="geometry" />
           </mxCell>
@@ -146,7 +146,7 @@
             <mxGeometry x="30" y="30" width="760" height="530" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" id="vl6xz0claTuVcNkZSl0_-1">
+        <UserObject label="" link="data:page/id,zxCVs5SGxwuc_AOnz3UE" id="vl6xz0claTuVcNkZSl0_-1">
           <mxCell style="shape=cross;whiteSpace=wrap;html=1;gradientColor=#000000;shadow=1;rotation=30;" vertex="1" parent="1">
             <mxGeometry x="690" y="50" width="70" height="70" as="geometry" />
           </mxCell>
