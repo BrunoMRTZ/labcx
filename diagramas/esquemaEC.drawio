@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T19:45:34.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="J79ucAzmCFePqc0JweOU" version="22.1.19" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T20:07:41.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1MJTQMoYYTLZVSe3xCrU" version="22.1.19" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
     <mxGraphModel dx="1007" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -99,7 +99,7 @@
         <mxCell id="yTiDIMMULaR009IDPwPM-57" value="3.4&lt;br&gt;&amp;nbsp;Resumo do plano de ação de 90 dias" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="537.5" y="900" width="107.5" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="Conceitos Digitais&amp;nbsp;" link="https://labdx.org/blog-marketing" id="yTiDIMMULaR009IDPwPM-60">
+        <UserObject label="Conceitos Digitais&amp;nbsp;" link="https://labdx.org/blog-marketing" linkTarget="_blank" id="yTiDIMMULaR009IDPwPM-60">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=#10739E;fontSize=17;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" vertex="1" parent="1">
             <mxGeometry x="37.5" y="130" width="220" height="85" as="geometry" />
           </mxCell>
