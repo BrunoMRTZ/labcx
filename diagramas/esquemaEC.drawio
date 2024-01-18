@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T18:14:23.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9Bdj9MWIfqv2-soTEcY1" version="22.1.19" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T18:18:48.062Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="npJcbr0aPv_22_-HmPA-" version="22.1.19" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
     <mxGraphModel dx="1259" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
         <mxCell id="yTiDIMMULaR009IDPwPM-2" value="" style="image;html=1;image=img/lib/clip_art/finance/Shopping_Cart_128x128.png" vertex="1" parent="1">
           <mxGeometry x="300" y="10" width="125" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="yTiDIMMULaR009IDPwPM-9" value="&lt;h1&gt;Planejamento estratégico para e-commerce social&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yTiDIMMULaR009IDPwPM-9" value="&lt;h1&gt;Planejamento estratégico para e-commerce social&lt;/h1&gt;&lt;p&gt;clique nos objetos para acessar os conteúdos&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="10" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yTiDIMMULaR009IDPwPM-11" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_50_128x128.png" vertex="1" parent="1">
