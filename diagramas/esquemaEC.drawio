@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T19:35:21.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Qj-J1fuTfNx1ae3yCr4p" version="22.1.19" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T19:37:05.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Upcp4mBClvvN0aIsxVA-" version="22.1.19" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
     <mxGraphModel dx="1007" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -75,7 +75,7 @@
         <mxCell id="yTiDIMMULaR009IDPwPM-46" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_50_128x128.png;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="277.5" y="365" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yTiDIMMULaR009IDPwPM-50" value="2.2&lt;br&gt;&amp;nbsp;Segmentação e segmentação de clientes" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=#006633;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="yTiDIMMULaR009IDPwPM-50" value="2.2&lt;br&gt;&amp;nbsp;Segmentação de clientes" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=#006633;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="570" width="107.5" height="85" as="geometry" />
         </mxCell>
         <mxCell id="yTiDIMMULaR009IDPwPM-51" value="2.3&lt;br&gt;&amp;nbsp;Mix de Marketing Moderno" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=#006633;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
