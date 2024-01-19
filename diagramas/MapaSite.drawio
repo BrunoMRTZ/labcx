@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T12:16:39.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xZ8EPxEMCmCGGixMj3Pz" version="22.1.19" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T12:17:34.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="428jnLxbzCafbkztmqG2" version="22.1.19" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1259" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" background="none" math="0" shadow="1">
       <root>
@@ -11,12 +11,12 @@
         </mxCell>
         <UserObject label="Artigos" link="https://labdx.org/reclameaqui" linkTarget="_blank" id="1351">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" parent="1" vertex="1">
-            <mxGeometry x="220" y="87.13" width="106" height="68.5" as="geometry" />
+            <mxGeometry x="270" y="90" width="70" height="55.63" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Blogs" link="https://labdx.org/or-blogs" linkTarget="_blank" id="1353">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#0000CC;strokeColor=none;" parent="1" vertex="1">
-            <mxGeometry x="63.48" y="240" width="85.5" height="60" as="geometry" />
+            <mxGeometry x="63.48" y="195.63" width="85.5" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="1360" style="endArrow=none;strokeWidth=6;strokeColor=#f08705;html=1;" parent="1" source="1515" target="1351" edge="1">
@@ -27,10 +27,10 @@
         </mxCell>
         <UserObject label="Estudo &lt;br&gt;ReclameAqui" link="https://labdx.org/reclameaqui" linkTarget="_blank" id="1393">
           <mxCell style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=1;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-            <mxGeometry x="380" y="13.75" width="120" height="40" as="geometry" />
+            <mxGeometry x="400" y="30" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="1405" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1351" target="1393" edge="1">
+        <mxCell id="1405" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1351" target="1393" edge="1">
           <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
             <mxPoint x="3.5" y="121.5" as="sourcePoint" />
             <mxPoint x="103.5" y="21.5" as="targetPoint" />
@@ -47,14 +47,14 @@
           </mxCell>
         </UserObject>
         <mxCell id="1438" value="Avaliação do &lt;br&gt;site dos &lt;br&gt;Correios" style="rounded=1;fillColor=#40aba0;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="87.5" y="590" width="115" height="55" as="geometry" />
+          <mxGeometry x="63.480000000000004" y="530" width="115" height="55" as="geometry" />
         </mxCell>
         <mxCell id="1440" value="Estratégico" style="rounded=1;fillColor=#007fff;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="9.999999999999996" y="374" width="82.75" height="40" as="geometry" />
         </mxCell>
         <UserObject label="Importância do &lt;br&gt;plano de Marketing" link="https://labdx.org/plano-de-marketing-digital" linkTarget="_blank" id="1441">
           <mxCell style="rounded=1;fillColor=#0070E0;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-            <mxGeometry x="390" y="464" width="120" height="40" as="geometry" />
+            <mxGeometry x="326" y="430" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="conceitos digitais" link="https://labdx.org/conceitos-digitais" linkTarget="_blank" id="1444">
@@ -100,7 +100,7 @@
         </mxCell>
         <UserObject label="Esquema E-C" link="https://labdx.org/or-esquema-e-c" linkTarget="_blank" id="BIRiuIXImkUtndXKvofW-1546">
           <mxCell style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=1;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-            <mxGeometry x="390" y="87.13" width="120" height="40" as="geometry" />
+            <mxGeometry x="400" y="87.13" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="BIRiuIXImkUtndXKvofW-1547" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="BIRiuIXImkUtndXKvofW-1546" source="1351">
@@ -121,7 +121,7 @@
         </UserObject>
         <UserObject label="Conceitos" link="https://labdx.org/or-blogs#marketing-digital" linkTarget="_blank" id="BIRiuIXImkUtndXKvofW-1555">
           <mxCell style="rounded=1;fillColor=#007fff;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-            <mxGeometry x="202.5" y="260" width="80" height="40" as="geometry" />
+            <mxGeometry x="246" y="260" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="BIRiuIXImkUtndXKvofW-1556" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BIRiuIXImkUtndXKvofW-1555" target="BIRiuIXImkUtndXKvofW-1554">
@@ -156,7 +156,7 @@
         </mxCell>
         <UserObject label="ReclameAqui" link="https://labdx.org/reclameaqui" linkTarget="_blank" id="BIRiuIXImkUtndXKvofW-1561">
           <mxCell style="rounded=1;fillColor=#41ABA0;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-            <mxGeometry x="230" y="580" width="115" height="40" as="geometry" />
+            <mxGeometry x="202.5" y="520" width="115" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="BIRiuIXImkUtndXKvofW-1562" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BIRiuIXImkUtndXKvofW-1561" source="BIRiuIXImkUtndXKvofW-1559">
