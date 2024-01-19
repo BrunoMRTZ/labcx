@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T12:18:55.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WX1rF24QBSZan5HR-3OU" version="22.1.19" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T12:52:25.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="XAn9PYmNqNIKP4u-zjEm" version="22.1.19" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1259" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" background="none" math="0" shadow="1">
       <root>
@@ -170,7 +170,7 @@
             <mxGeometry x="51.519999999999996" y="30.000000000000004" width="97.46" height="57.13" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="gitaDefinição de &lt;br&gt;Canais Digitais&amp;nbsp;is" link="https://labdx.org/blog-post" linkTarget="_blank" id="BIRiuIXImkUtndXKvofW-1564">
+        <UserObject label="Definição de &lt;br&gt;Canais Digitais" link="https://labdx.org/blog-post" linkTarget="_blank" id="BIRiuIXImkUtndXKvofW-1564">
           <mxCell style="rounded=1;fillColor=#4C8DAB;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
             <mxGeometry x="430" y="170" width="115" height="40" as="geometry" />
           </mxCell>
