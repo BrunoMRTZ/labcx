@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T10:31:36.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Lm-vF6GIa2tWfCugCrJM" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-26T10:31:53.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="a16s7auWqQpspYPoBpNY" version="23.0.2" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
     <mxGraphModel dx="6287" dy="2100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="707" value="&lt;div style=&quot;font-size: 26px&quot;&gt;&lt;font color=&quot;#99ccff&quot; style=&quot;font-size: 26px&quot;&gt;Revenue Streams&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#99ccff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#99ccff&quot;&gt;For what value are our customers really willing to pay?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#99ccff&quot;&gt;For what do they currently pay?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#99ccff&quot;&gt;How are they currently paying?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#99ccff&quot;&gt;How would they prefer to pay?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#99ccff&quot;&gt;How much does each Revenue Stream contribute to overall revenues?&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#99CCFF;strokeWidth=5;fillColor=#330066;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" parent="1" vertex="1">
           <mxGeometry x="-1160" y="1120" width="1050" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="708" value="Modelo de negócio -&amp;nbsp; Canvas" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=60;fontColor=#2F5B7C;" parent="1" vertex="1">
+        <mxCell id="708" value="&lt;font color=&quot;#99ffcc&quot;&gt;Modelo de negócio -&amp;nbsp; Canvas&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=60;fontColor=#2F5B7C;" parent="1" vertex="1">
           <mxGeometry x="-2210" y="110" width="800" height="80" as="geometry" />
         </mxCell>
         <mxCell id="709" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.ios7.misc.check;strokeColor=#2F5B7C;fillColor=#ffffff;gradientColor=none;fontSize=12;fontColor=#2F5B7C;align=left;" parent="1" vertex="1">
