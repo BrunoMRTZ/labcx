@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T21:28:08.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="DDDIIhxbyqJZWhGAnSPt" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T11:26:35.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="yCPh5kbbPlhkqG7ilIJB" version="23.0.2" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="2049" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -10,11 +10,11 @@
         <mxCell id="4ec97bd9e5d20128-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="-330" y="615" width="1000" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-5" value="Stage 1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;rotation=-90;gradientColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="415" y="225" width="180" height="40" as="geometry" />
+        <mxCell id="4ec97bd9e5d20128-5" value="Estágio 1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;rotation=-90;gradientColor=#99CCFF;" parent="1" vertex="1">
+          <mxGeometry x="397.5" y="182.5" width="215" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;Estratégia empresarial&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#D9E9FF;fontSize=18;fontColor=#000000;align=center;rounded=1;gradientColor=#FFFFFF;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="575" y="167.5" width="175" height="65" as="geometry" />
+        <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;Estratégia empresarial&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#D9E9FF;fontSize=18;fontColor=#000000;align=center;rounded=1;gradientColor=#FFFFFF;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="560" y="100" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ew5ookFaaCfGFcfzrvVE-5" value="&lt;font color=&quot;#003366&quot;&gt;&lt;b&gt;Marketing de Canais Digitais&lt;/b&gt;&lt;/font&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#CCD4E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=#004C99;rotation=0;gradientColor=#99CCFF;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="460" y="40" width="180" height="50" as="geometry" />
@@ -32,22 +32,19 @@
             <mxGeometry x="70" y="225" width="190" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Ew5ookFaaCfGFcfzrvVE-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#CCFFFF;strokeColor=#006600;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="730" y="140" width="50" height="40" as="geometry" />
-        </mxCell>
         <UserObject label="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Estratégia Digital&lt;/h1&gt;" link="https://labdx.org/o-que-e-estrategia-digital" id="Ew5ookFaaCfGFcfzrvVE-12">
           <mxCell style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#D9E9FF;fontSize=20;fontColor=#000000;align=center;rounded=1;gradientColor=#FFFFFF;verticalAlign=middle;" vertex="1" parent="1">
-            <mxGeometry x="575" y="275" width="195" height="60" as="geometry" />
+            <mxGeometry x="575" y="160" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Ew5ookFaaCfGFcfzrvVE-14" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="50" y="590" width="1000" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Ew5ookFaaCfGFcfzrvVE-13" value="2" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D9ECFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;gradientColor=#FFFFFF;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="280" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-9" value="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D9ECFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;gradientColor=#FFFFFF;shadow=1;opacity=90;" parent="1" vertex="1">
+        <mxCell id="Ew5ookFaaCfGFcfzrvVE-13" value="1.2" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D9ECFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;gradientColor=#FFFFFF;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="175" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-9" value="1.1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D9ECFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;gradientColor=#FFFFFF;shadow=1;opacity=90;" parent="1" vertex="1">
+          <mxGeometry x="525" y="107.5" width="50" height="50" as="geometry" />
         </mxCell>
         <UserObject label="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Planejamento Digital&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/h1&gt;" link="https://labdx.org/planejamento-digital" linkTarget="_blank" id="Ew5ookFaaCfGFcfzrvVE-17">
           <mxCell style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#D9E9FF;fontSize=20;fontColor=#000000;align=center;rounded=1;gradientColor=#FFFFFF;" vertex="1" parent="1">
@@ -64,19 +61,19 @@
             <mxGeometry x="80" y="495" width="195" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Ew5ookFaaCfGFcfzrvVE-20" value="Stage 1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#FFE6CC;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;rotation=-90;gradientColor=#99CCFF;" vertex="1" parent="1">
-          <mxGeometry x="370" y="475" width="270" height="40" as="geometry" />
+        <mxCell id="Ew5ookFaaCfGFcfzrvVE-20" value="Estágio 2" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#FFE6CC;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;rotation=-90;gradientColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="850" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ew5ookFaaCfGFcfzrvVE-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;strokeColor=#3399FF;shadow=1;" edge="1" parent="1" source="Ew5ookFaaCfGFcfzrvVE-21" target="Ew5ookFaaCfGFcfzrvVE-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Desenhar experimento&lt;/h1&gt;" link="https://labdx.org/campanha-2024-01-dia-do-consumidor" id="Ew5ookFaaCfGFcfzrvVE-21">
           <mxCell style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#D9E9FF;fontSize=20;fontColor=#000000;align=center;rounded=1;gradientColor=#FFFFFF;verticalAlign=middle;" vertex="1" parent="1">
-            <mxGeometry x="570" y="375" width="185" height="70" as="geometry" />
+            <mxGeometry x="582.5" y="700" width="185" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Ew5ookFaaCfGFcfzrvVE-22" value="3" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D9ECFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;gradientColor=#FFFFFF;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="380" width="50" height="50" as="geometry" />
+          <mxGeometry x="537.5" y="710" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ew5ookFaaCfGFcfzrvVE-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#CCFFFF;strokeColor=#006600;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="740" y="265" width="50" height="40" as="geometry" />
@@ -86,25 +83,25 @@
         </mxCell>
         <UserObject label="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Protótipo&lt;/h1&gt;" link="https://labdx.org/o-que-e-estrategia-digital" id="Ew5ookFaaCfGFcfzrvVE-33">
           <mxCell style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#D9E9FF;fontSize=20;fontColor=#000000;align=center;rounded=1;gradientColor=#FFFFFF;verticalAlign=middle;" vertex="1" parent="1">
-            <mxGeometry x="575" y="480" width="185" height="60" as="geometry" />
+            <mxGeometry x="587.5" y="805" width="185" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Ew5ookFaaCfGFcfzrvVE-34" value="4" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D9ECFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;gradientColor=#FFFFFF;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="480" width="50" height="50" as="geometry" />
+          <mxGeometry x="537.5" y="805" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ew5ookFaaCfGFcfzrvVE-35" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="750" y="460" width="50" height="40" as="geometry" />
+          <mxGeometry x="260" y="135" width="50" height="40" as="geometry" />
         </mxCell>
         <UserObject label="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;MVP&lt;/h1&gt;" link="https://labdx.org/o-que-e-estrategia-digital" id="Ew5ookFaaCfGFcfzrvVE-37">
           <mxCell style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#D9E9FF;fontSize=20;fontColor=#000000;align=center;rounded=1;gradientColor=#FFFFFF;verticalAlign=middle;" vertex="1" parent="1">
-            <mxGeometry x="575" y="580" width="185" height="50" as="geometry" />
+            <mxGeometry x="587.5" y="905" width="185" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Ew5ookFaaCfGFcfzrvVE-38" value="5" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D9ECFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;gradientColor=#FFFFFF;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="580" width="50" height="50" as="geometry" />
+          <mxGeometry x="537.5" y="905" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ew5ookFaaCfGFcfzrvVE-39" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="750" y="560" width="50" height="40" as="geometry" />
+          <mxGeometry x="270" y="237.5" width="50" height="40" as="geometry" />
         </mxCell>
         <UserObject label="&lt;h1 style=&quot;font-size: 23px;&quot;&gt;Matriz-Ansoff&lt;/h1&gt;" link="https://labdx.org/matriz-ansoff" id="Ew5ookFaaCfGFcfzrvVE-40">
           <mxCell style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#D9E9FF;fontSize=23;fontColor=#000000;align=center;rounded=1;gradientColor=#FFFFFF;" vertex="1" parent="1">
@@ -117,7 +114,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="Ew5ookFaaCfGFcfzrvVE-43" value="Ferramentas" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;rotation=0;gradientColor=#99CCFF;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="940" y="80" width="160" height="40" as="geometry" />
+          <mxGeometry x="935" y="40" width="160" height="40" as="geometry" />
         </mxCell>
         <UserObject label="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Fuxo do cliente&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/h1&gt;" link="https://labdx.org/fluxo-de-compra" linkTarget="_blank" id="Ew5ookFaaCfGFcfzrvVE-44">
           <mxCell style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#D9E9FF;fontSize=20;fontColor=#000000;align=center;rounded=1;gradientColor=#FFFFFF;" vertex="1" parent="1">
@@ -126,12 +123,12 @@
         </UserObject>
         <UserObject label="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Planejamento Digital&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/h1&gt;" link="https://labdx.org/planejamento-digital" linkTarget="_blank" id="Ew5ookFaaCfGFcfzrvVE-45">
           <mxCell style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#D9E9FF;fontSize=20;fontColor=#000000;align=center;rounded=1;gradientColor=#FFFFFF;" vertex="1" parent="1">
-            <mxGeometry x="940" y="135" width="190" height="70" as="geometry" />
+            <mxGeometry x="920" y="87.5" width="190" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;h1 style=&quot;font-size: 23px;&quot;&gt;Estratégia Digital&lt;/h1&gt;" link="https://labdx.org/o-que-e-estrategia-digital" id="Ew5ookFaaCfGFcfzrvVE-46">
           <mxCell style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#D9E9FF;fontSize=23;fontColor=#000000;align=center;rounded=1;gradientColor=#FFFFFF;" vertex="1" parent="1">
-            <mxGeometry x="935" y="220" width="195" height="70" as="geometry" />
+            <mxGeometry x="920" y="167.5" width="195" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;h1 style=&quot;font-size: 23px;&quot;&gt;Landing Pages&lt;/h1&gt;" link="https://labdx.org/landing-pages" id="Ew5ookFaaCfGFcfzrvVE-47">
@@ -141,7 +138,7 @@
         </UserObject>
         <UserObject label="&lt;h1 style=&quot;font-size: 23px;&quot;&gt;Matriz-Ansoff&lt;/h1&gt;" link="https://labdx.org/matriz-ansoff" id="Ew5ookFaaCfGFcfzrvVE-48">
           <mxCell style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#D9E9FF;fontSize=23;fontColor=#000000;align=center;rounded=1;gradientColor=#FFFFFF;" vertex="1" parent="1">
-            <mxGeometry x="940" y="320" width="195" height="50" as="geometry" />
+            <mxGeometry x="920" y="251" width="195" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Jornada do cliente&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/h1&gt;" link="https://labdx.org/fluxo-de-compra" linkTarget="_blank" id="Ew5ookFaaCfGFcfzrvVE-53">
@@ -173,15 +170,15 @@
             <mxPoint x="990" y="703" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ew5ookFaaCfGFcfzrvVE-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;strokeColor=#d79b00;shadow=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#ffe6cc;" edge="1" parent="1" target="Ew5ookFaaCfGFcfzrvVE-46">
+        <mxCell id="Ew5ookFaaCfGFcfzrvVE-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;strokeColor=#d79b00;shadow=1;fillColor=#ffe6cc;" edge="1" parent="1" target="Ew5ookFaaCfGFcfzrvVE-46">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="315" as="sourcePoint" />
+            <mxPoint x="740" y="190" as="sourcePoint" />
             <mxPoint x="940" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ew5ookFaaCfGFcfzrvVE-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;strokeColor=#d79b00;shadow=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#ffe6cc;" edge="1" parent="1" target="Ew5ookFaaCfGFcfzrvVE-48">
+        <mxCell id="Ew5ookFaaCfGFcfzrvVE-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;strokeColor=#d79b00;shadow=1;fillColor=#ffe6cc;" edge="1" parent="1" target="Ew5ookFaaCfGFcfzrvVE-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="325" as="sourcePoint" />
+            <mxPoint x="750" y="190" as="sourcePoint" />
             <mxPoint x="950" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -190,11 +187,37 @@
             <mxGeometry x="80" y="640" width="240" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Ew5ookFaaCfGFcfzrvVE-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;strokeColor=#3399FF;shadow=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ew5ookFaaCfGFcfzrvVE-22" target="Ew5ookFaaCfGFcfzrvVE-61">
+        <mxCell id="Ew5ookFaaCfGFcfzrvVE-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;strokeColor=#3399FF;shadow=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ew5ookFaaCfGFcfzrvVE-22" target="Ew5ookFaaCfGFcfzrvVE-61">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="785" y="440" as="sourcePoint" />
-            <mxPoint x="955" y="621" as="targetPoint" />
+            <mxPoint x="340" y="710" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew5ookFaaCfGFcfzrvVE-63" value="Estágio&amp;nbsp; 3" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#FFE6CC;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;rotation=-90;gradientColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1130" width="270" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Estratégia do produto&lt;/h1&gt;" link="https://labdx.org/o-que-e-estrategia-digital" id="Ew5ookFaaCfGFcfzrvVE-64">
+          <mxCell style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#D9E9FF;fontSize=20;fontColor=#000000;align=center;rounded=1;gradientColor=#FFFFFF;verticalAlign=middle;" vertex="1" parent="1">
+            <mxGeometry x="565" y="246" width="170" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Ew5ookFaaCfGFcfzrvVE-65" value="1.3" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D9ECFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;gradientColor=#FFFFFF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="246" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ew5ookFaaCfGFcfzrvVE-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ew5ookFaaCfGFcfzrvVE-69" target="4ec97bd9e5d20128-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ew5ookFaaCfGFcfzrvVE-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#CCFFFF;strokeColor=#006600;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="145" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ew5ookFaaCfGFcfzrvVE-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ec97bd9e5d20128-14" target="Ew5ookFaaCfGFcfzrvVE-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="735" y="115" as="sourcePoint" />
+            <mxPoint x="735" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew5ookFaaCfGFcfzrvVE-69" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#CCFFFF;strokeColor=#006600;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="87.5" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
