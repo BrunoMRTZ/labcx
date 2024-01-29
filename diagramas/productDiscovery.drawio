@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T12:13:55.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Su1432dGaTMMAsWgPnHp" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T12:52:51.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="1wqmbeE_ETOs2-ktzdEy" version="23.0.2" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="4250" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4025" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,8 @@
         <mxCell id="706" value="&lt;div style=&quot;font-size: 26px&quot;&gt;5. Loop dos experimentos&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" parent="1" vertex="1">
           <mxGeometry x="-2210" y="1120" width="2100" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="708" value="The Business Model Canvas&lt;br&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=60;fontColor=#2F5B7C;" parent="1" vertex="1">
-          <mxGeometry x="-2210" y="110" width="780" height="70" as="geometry" />
+        <mxCell id="708" value="Product Discovery" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=60;fontColor=#2F5B7C;" parent="1" vertex="1">
+          <mxGeometry x="-2210" y="110" width="510" height="80" as="geometry" />
         </mxCell>
         <mxCell id="709" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.ios7.misc.check;strokeColor=#2F5B7C;fillColor=#ffffff;gradientColor=none;fontSize=12;fontColor=#2F5B7C;align=left;" parent="1" vertex="1">
           <mxGeometry x="-950" y="243.5" width="20" height="16" as="geometry" />
@@ -46,65 +46,68 @@
         <mxCell id="722" value="" style="shadow=0;dashed=0;html=1;strokeColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shape=mxgraph.office.users.user;fillColor=#2F5B7C;labelBackgroundColor=none;fontSize=10;fontColor=#000000;align=left;strokeWidth=2;" parent="720" vertex="1">
           <mxGeometry width="46" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-725" value="A. Desejável" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-725" value="A. Desejável" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2060" y="1260" width="189" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-726" value="b. Usabilidade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-726" value="b. Usabilidade" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2060" y="1310" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-727" value="C. Desejável, cionveniente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-727" value="C. Desejável, cionveniente" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2060" y="1360" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-728" value="5.1 Experimentos&lt;br&gt;quais experimentos quantitativos e qualitativos você pode executar baseado nas suas suposições?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-728" value="5.1 Experimentos&lt;br&gt;quais experimentos quantitativos e qualitativos você pode executar baseado nas suas suposições?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1850" y="1160" width="270" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-729" value="5.1 Métricaqs&lt;br&gt;Quais métricas você ira medir para determinar o sucesso do experimento?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-729" value="5.1 Métricaqs&lt;br&gt;Quais métricas você ira medir para determinar o sucesso do experimento?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1570" y="1160" width="270" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-730" value="5.1 Métricaqs&lt;br&gt;Quias métricas você ira medir para determinar o sucesso do experimento?&lt;br&gt;Como interpretar os resultados?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-730" value="5.1 Métricaqs&lt;br&gt;Quias métricas você ira medir para determinar o sucesso do experimento?&lt;br&gt;Como interpretar os resultados?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1295" y="1160" width="270" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-731" value="5.4 O que vem a seguir?&lt;br&gt;Baseado nos resultados, qual próximo experimento para ser validado?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-731" value="5.4 O que vem a seguir?&lt;br&gt;Baseado nos resultados, qual próximo experimento para ser validado?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1025" y="1160" width="270" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-732" value="A. Desejável" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-732" value="A. Desejável" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2060" y="1260" width="189" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-733" value="Wizard of Oz Mvp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-733" value="Wizard of Oz Mvp" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1850" y="1270" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-734" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-734" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1570" y="1270" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-735" value="Wizard of Oz Mvp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-735" value="Wizard of Oz Mvp" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1850" y="1320" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-736" value="Wizard of Oz Mvp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-736" value="Wizard of Oz Mvp" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1850" y="1370" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-737" value="Wizard of Oz Mvp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-737" value="Wizard of Oz Mvp" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1570" y="1320" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-739" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-739" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1570" y="1370" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-740" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-740" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1290" y="1370" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-741" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-741" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1290" y="1320" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-742" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-742" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1290" y="1270" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-744" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-744" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1020" y="1370" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-745" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-745" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1020" y="1320" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RV-PYbP-iU8af8nAOI3y-746" value="Melhor entendimento da&amp;nbsp; jornada do cliente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RV-PYbP-iU8af8nAOI3y-746" value="Melhor entendimento da&amp;nbsp; jornada do cliente" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1020" y="1270" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="riUSBN518WzXnm5sflm8-722" value="&lt;h1&gt;Sucesso docliente&lt;/h1&gt;&lt;div&gt;quando o cliente alcança o resultado desejado utilizando os meios fornmecidoos&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2100" y="827" width="190" height="143" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
