@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T15:10:46.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="_AlfLsRHH5Vk1VK52c9T" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T15:15:17.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="6qN2L5abx60EbDnStqpQ" version="23.0.2" type="github">
   <diagram name="Página-1" id="vxG0UQACSZFj7d7GcTHN">
     <mxGraphModel dx="819" dy="441" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="570" pageHeight="320" math="0" shadow="0">
       <root>
@@ -38,10 +38,10 @@
           <mxGeometry x="193" y="164" width="64" height="13" as="geometry" />
         </mxCell>
         <mxCell id="bAQQIdpgKlyytkIpe9Re-17" value="Construir &lt;br&gt;certo o &lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;produto&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#28A793;fillStyle=solid;shape=ellipse;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="392" y="117" width="92" height="141" as="geometry" />
+          <mxGeometry x="371" y="117" width="113" height="141" as="geometry" />
         </mxCell>
-        <mxCell id="bAQQIdpgKlyytkIpe9Re-18" value="Construir &lt;br&gt;o&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;produto &lt;br&gt;certo&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#19978a;fillStyle=solid;shape=ellipse;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="260" y="115" width="95" height="143" as="geometry" />
+        <mxCell id="bAQQIdpgKlyytkIpe9Re-18" value="Construir &lt;br&gt;o&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;produto &lt;br&gt;certo&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#99CCFF;fillStyle=solid;shape=ellipse;perimeter=ellipsePerimeter;textOpacity=90;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="259" y="116" width="126" height="143" as="geometry" />
         </mxCell>
         <mxCell id="bAQQIdpgKlyytkIpe9Re-19" value="Priorização" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="193" y="195" width="64" height="13" as="geometry" />
@@ -52,8 +52,8 @@
         <mxCell id="bAQQIdpgKlyytkIpe9Re-21" value="Produto" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="271" y="261" width="64" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="bAQQIdpgKlyytkIpe9Re-23" value="Desenho de Produto" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#66FFFF;" vertex="1" parent="1">
-          <mxGeometry x="344" y="125.5" width="59" height="122" as="geometry" />
+        <mxCell id="bAQQIdpgKlyytkIpe9Re-24" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="219" width="120" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
