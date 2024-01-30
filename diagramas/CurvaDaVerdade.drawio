@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T12:52:37.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="599E4QVvYhQJC0UTEskT" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T10:38:36.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="qAdRDrC7ZWyTevtDEuJg" version="23.0.2" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="2049" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -238,6 +238,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <UserObject label="&lt;h1 style=&quot;font-size: 23px;&quot;&gt;Customer Success&lt;/h1&gt;" link="https://labdx.org/definicao-de-customer-success" linkTarget="_blank" id="Ew5ookFaaCfGFcfzrvVE-76">
+          <mxCell style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#D9E9FF;fontSize=23;fontColor=#000000;align=center;rounded=1;gradientColor=#FFFFFF;" vertex="1" parent="1">
+            <mxGeometry x="70" y="725" width="240" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
